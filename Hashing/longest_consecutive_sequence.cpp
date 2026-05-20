@@ -10,7 +10,7 @@ int main() {
 
     unordered_set<int> st;
 
-    // insert all elements
+    
     for(int i = 0; i < n; i++) {
         st.insert(arr[i]);
     }
