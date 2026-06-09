@@ -1,128 +1,88 @@
-# 🚀 Data Structures & Algorithms - By Arpit Kumar
+# 🧠 Data Structures & Algorithms — Arpit Kumar
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Preparation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-C++-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Top%20MNC%20(SDE)-green?style=for-the-badge"/>
-</p>
+![DSA](https://img.shields.io/badge/DSA-Preparation-blue?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C++-orange?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge)
+![Goal](https://img.shields.io/badge/Goal-SDE%20@%20Top%20Companies-green?style=for-the-badge)
 
----
-
-## 📌 About This Repository
-
-This repository contains my structured preparation for **Data Structures and Algorithms (DSA)**.
-I am solving problems regularly to strengthen my problem-solving skills and prepare for top tech companies.
+> *"Consistency beats intensity. Solve daily, improve daily."*
 
 ---
 
-## 🎯 Goals
+## 📌 About
 
-* Crack **SDE roles** in top companies (Microsoft, Amazon, etc.)
-* Build strong problem-solving skills
-* Master DSA concepts from basic to advanced
-
----
-
-## 🧠 Topics Covered
-
-### 📊 Arrays
-
-* [x] Two Sum
-* [ ] Kadane's Algorithm
-* [ ] Trapping Rain Water
-
-### 🔤 Strings
-
-* [ ] Longest Substring Without Repeating Characters
-* [ ] Valid Anagram
-
-### 🔗 Linked List
-
-* [ ] Reverse Linked List
-* [ ] Detect Cycle
-
-### 🌳 Trees
-
-* [ ] Level Order Traversal
-* [ ] Diameter of Tree
-
-### 🌐 Graphs
-
-* [ ] BFS
-* [ ] DFS
-
-### ⚡ Dynamic Programming
-
-* [ ] Fibonacci
-* [ ] Knapsack
-
-### 🧮 Bit Manipulation
-
-* [ ] Single Number
-* [ ] Power of Two
+This repository contains my complete DSA preparation in **C++** — topic-wise organized solutions with problem links and approaches. Built to crack SDE interviews at top tech companies.
 
 ---
 
 ## 📂 Folder Structure
-
-```
-DSA-Prep/
- ├── Arrays/
- ├── Strings/
- ├── LinkedList/
- ├── Stack/
- ├── Queue/
- ├── Trees/
- ├── Graphs/
- ├── DP/
- └── BitManipulation/
-```
-
----
-
-## 🛠️ Languages Used
-
-* C++
+Data-Structure-Algorithm/
+├── Array/
+├── Binary Search/
+├── Hashing/
+├── Intervals/
+├── PREFIX SUM/
+├── Searching/
+├── SlidingWindow/
+├── Sorting/
+├── Stack/
+├── Stl/
+└── TwoPointer/
 
 ---
 
-## 📈 Progress Tracker
+## 🧩 Topics Covered
 
-* 📅 Daily practice: 2–3 problems
-* 🔥 Consistency is key
+| Topic | Status |
+|---|---|
+| 📊 Array | ✅ In Progress |
+| 🔍 Binary Search | ✅ In Progress |
+| #️⃣ Hashing | ✅ In Progress |
+| 🪟 Sliding Window | ✅ In Progress |
+| 👉 Two Pointer | ✅ In Progress |
+| 📦 Stack | ✅ In Progress |
+| 🔀 Sorting | ✅ In Progress |
+| ➕ Prefix Sum | ✅ In Progress |
+| 📐 Intervals | ✅ In Progress |
+| 🔎 Searching | ✅ In Progress |
+| 🛠️ STL | ✅ In Progress |
+| 🌳 Trees | 🔜 Coming Soon |
+| 🌐 Graphs | 🔜 Coming Soon |
+| ⚡ Dynamic Programming | 🔜 Coming Soon |
 
 ---
 
 ## 💡 How to Use
 
-* Navigate to topic folders
-* Each file contains:
-
-  * Problem statement (short)
-  * Approach
-  * Code solution
+1. Navigate to any topic folder
+2. Each file contains:
+   - Problem name & platform link
+   - Approach/logic (in comments)
+   - Clean C++ solution
 
 ---
 
-## 🔥 Platforms
+## 🔥 Platforms I Practice On
 
-* LeetCode
-* GeeksforGeeks
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/THEARPITSHAH/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+---
+
+## 📈 My Progress
+
+- 🗓️ Solving **2–3 problems daily**
+- 🎯 Target: **300+ problems** before placements
+- 💪 Focus: **Interview patterns** over random solving
 
 ---
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/arrpit-kumar-ab673227a/
-* 🧠 LeetCode: https://leetcode.com/u/THEARPITSHAH/
-* 💻 GitHub: https://github.com/ArrpitShah
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arrpit-kumar-ab673227a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/THEARPITSHAH/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArrpitShah)
 
 ---
 
-## ⭐ If you find this helpful
-
-Give a ⭐ to support!
-
----
-
-> "Consistency beats intensity. Solve daily, improve daily."
+⭐ **Star this repo** if you find it helpful!
