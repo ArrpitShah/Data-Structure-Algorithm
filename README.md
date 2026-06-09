@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-orange?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge)
 ![Goal](https://img.shields.io/badge/Goal-SDE%20@%20Top%20Companies-green?style=for-the-badge)
-
+![Build](https://github.com/ArrpitShah/Data-Structure-Algorithm/actions/workflows/build.yml/badge.svg)
 > *"Consistency beats intensity. Solve daily, improve daily."*
 
 ---
